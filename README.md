@@ -37,3 +37,4 @@ n = eval(input())
 ![Screenshot (110)](https://github.com/maha712/Circulate-the-values-of-N-variables/assets/121156360/732d221b-232c-4ade-b36e-d117e01bfd0c)
 
 ## Result:
+a python program to circulate the n variables using function concept is implemented
